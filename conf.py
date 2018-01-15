@@ -2,7 +2,7 @@
 # -*- coding: utf-8 -*-
 
 # -- PROJECT Variables ----------------------------------------------------
-settings_project_name = "Linee Guida per il Sistema di Misurazione e Valutazione della performance"
+settings_project_name = "Linee guida per il Sistema di Misurazione e Valutazione della performance"
 settings_copyright_year = '2018'
 settings_copyright_name = ''
 settings_doc_version = 'version: latest'

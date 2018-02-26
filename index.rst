@@ -4,10 +4,8 @@ Dipartimento della Funzione Pubblica
 
 Ufficio per la valutazione della *performance*
 
-#############################################################################
 Linee guida per il Sistema di Misurazione e Valutazione della *performance*
-#############################################################################
-
+===========================================================================
 
 **Ministeri**
 
@@ -15,12 +13,12 @@ Linee guida per il Sistema di Misurazione e Valutazione della *performance*
 
 **Dicembre 2017**
 
-*Queste linee guida sono redatte ai sensi del d.lgs. 150/2009 e dell'articolo
-3, comma 1, del dPR n. 105 del 2016 che attribuiscono al Dipartimento della
-Funzione Pubblica (DFP) le funzioni di indirizzo, coordinamento e
-monitoraggio in materia di ciclo della performance, avvalendosi del supporto
-tecnico e metodologico della Commissione Tecnica per la Performance (CTP) di
-cui all'articolo 4 del citato dPR.*  
+*Queste linee guida sono redatte ai sensi del d.lgs. 150/2009 e
+dell'articolo 3, comma 1, del dPR n. 105 del 2016 che attribuiscono al
+Dipartimento della Funzione Pubblica (DFP) le funzioni di indirizzo,
+coordinamento e monitoraggio in materia di ciclo della performance,
+avvalendosi del supporto tecnico e metodologico della Commissione
+Tecnica per la Performance (CTP) di cui all'articolo 4 del citato dPR.*
 
 *In questa sede, in particolare, si intendono delineare le modifiche al
 precedente quadro degli indirizzi così come definito dalle delibere
@@ -31,16 +29,12 @@ Performance di cui all'art. 7 del d.lgs. 150/2009.*
 Delibere CIVIT/ANAC:*
 
 1. *Delibera n. 89/2010;*
-
 2. *Delibera n. 104/2010;*
-
 3. *Delibera n. 114/2010;*
-
 4. *Delibera n. 1/2012, paragrafi 3 e 4*.
 
-
 Introduzione alle linee guida
-=============================
+-----------------------------
 
 Queste linee guida forniscono indicazioni in ordine alla progettazione e
 alla revisione annuale del Sistema di Misurazione e Valutazione della
@@ -54,21 +48,19 @@ metodologico sotteso a queste linee guida può essere così sintetizzato:
 -  affronta alcuni aspetti emersi come particolarmente critici
    dall'analisi dei SMVP attualmente in uso, nonché dall'esperienza
    maturata all'interno dei laboratori sulla *performance*\  [1]_
-   attivati nel corso del 2017, quali la differenza tra misurazione
-   e valutazione ed il collegamento tra *performance* organizzativa
-   e *performance* individuale;
-
+   attivati nel corso del 2017, quali la differenza tra misurazione e
+   valutazione ed il collegamento tra *performance* organizzativa e
+   *performance* individuale;
 -  consente alle amministrazioni, nell'ambito della propria autonomia,
    di declinare i SMVP nella maniera più funzionale alle proprie
    esigenze organizzative;
-
 -  non fornisce indicazioni dettagliate e vincolanti sui singoli
    contenuti dei SMVP; l'esperienza ha insegnato che un approccio
    eccessivamente prescrittivo rischia di limitare la capacità di
-   personalizzazione di strumenti, quali quelli legati alla
-   misurazione e valutazione della *performance*, che, per essere
-   efficaci, richiedono una forte coerenza con il contesto
-   organizzativo in cui sono chiamati ad operare.
+   personalizzazione di strumenti, quali quelli legati alla misurazione
+   e valutazione della *performance*, che, per essere efficaci,
+   richiedono una forte coerenza con il contesto organizzativo in cui
+   sono chiamati ad operare.
 
 Coerentemente alla scelta di rilascio modulare operata con le linee
 guida n. 1/2017, anche queste linee guida si rivolgono ai ministeri, in
@@ -86,7 +78,7 @@ della *performance* organizzativa e, infine, il 5 si riferisce alla
 misurazione e valutazione della *performance* individuale.
 
 Il ciclo della *performance* e il Sistema di Misurazione e Valutazione
-======================================================================
+----------------------------------------------------------------------
 
 Il SMVP è un insieme di tecniche, risorse e processi che assicurano il
 corretto svolgimento delle funzioni di programmazione, misurazione,
@@ -171,19 +163,16 @@ amministrativi. Nello specifico:
 -  l'organo di indirizzo politico-amministrativo, al quale compete
    l'esercizio della funzione di indirizzo e la definizione degli
    obiettivi da perseguire e dei programmi da attuare;
-
 -  i dirigenti apicali, titolari di Centri di Responsabilità
    Amministrativa (CRA), cui compete la responsabilità univoca dei
-   programmi di bilancio assegnati ai CRA medesimi e la
-   responsabilità dell'attività amministrativa, della gestione e dei
-   relativi risultati;
-
+   programmi di bilancio assegnati ai CRA medesimi e la responsabilità
+   dell'attività amministrativa, della gestione e dei relativi
+   risultati;
 -  i dirigenti e i titolari di posizioni organizzative, che partecipano
    al processo di programmazione, contribuendo a definire risorse e
-   obiettivi nella fase *top down* e successivamente in quella
-   *bottom up*, al processo di monitoraggio e infine alla
-   valutazione, sia come soggetti valutatori che come soggetti
-   valutati.
+   obiettivi nella fase *top down* e successivamente in quella *bottom
+   up*, al processo di monitoraggio e infine alla valutazione, sia come
+   soggetti valutatori che come soggetti valutati.
 
 Gli OIV forniscono, lungo tutto il ciclo, un supporto metodologico volto
 ad assicurare efficacia, solidità e affidabilità al SMVP. Più nel
@@ -191,19 +180,15 @@ dettaglio, anche alla luce della disciplina introdotta con il d.lgs.
 74/2017, le funzioni attribuite agli OIV sono:
 
 -  *presidio tecnico metodologico* del SMVP che si esprime
-   prevalentemente attraverso la formulazione del parere vincolante
-   sul SMVP (vedi Box 1), la validazione della Relazione sulla
-   *performance* e la Relazione annuale sul funzionamento del
-   Sistema;
-
+   prevalentemente attraverso la formulazione del parere vincolante sul
+   SMVP (vedi Box 1), la validazione della Relazione sulla *performance*
+   e la Relazione annuale sul funzionamento del Sistema;
 -  *valutazione della performance organizzativa*, effettuata nel
    rispetto degli indirizzi espressi in queste linee guida;
-
 -  *monitoraggio della performance organizzativa*, ovvero verifica
-   dell'andamento della *performance* dell'amministrazione rispetto
-   agli obiettivi programmati e segnalazione all'organo di indirizzo
-   politico dell'esigenza di interventi correttivi;
-
+   dell'andamento della *performance* dell'amministrazione rispetto agli
+   obiettivi programmati e segnalazione all'organo di indirizzo politico
+   dell'esigenza di interventi correttivi;
 -  *proposta di valutazione* annuale dei dirigenti di vertice e
    trasmissione all'organo di indirizzo politico-amministrativo.
 
@@ -212,18 +197,16 @@ tenga conto di due requisiti essenziali per la sua efficacia:
 
 -  condivisione, fra OIV e amministrazione, delle modalità ottimali per
    consentire all'OIV il pieno e autonomo accesso alle informazioni
-   rilevanti e alla conoscenza dei fenomeni gestionali e
-   amministrativi;
-
+   rilevanti e alla conoscenza dei fenomeni gestionali e amministrativi;
 -  dotazione di un'adeguata struttura tecnica, in possesso delle
    conoscenze e delle competenze professionali necessarie per il
    supporto delle funzioni proprie dell'OIV (quali, ad esempio,
    conoscenza della struttura organizzativa dell'amministrazione,
    capacità di analisi dei processi, conoscenza dei sistemi di
-   pianificazione e controllo, utilizzo dei sistemi informativi,
-   etc.) e individuazione, all'interno dell'amministrazione, della
-   collocazione più adeguata per tale struttura, al fine di
-   garantire l'indipendenza funzionale e operativa dell'OIV.
+   pianificazione e controllo, utilizzo dei sistemi informativi, etc.) e
+   individuazione, all'interno dell'amministrazione, della collocazione
+   più adeguata per tale struttura, al fine di garantire l'indipendenza
+   funzionale e operativa dell'OIV.
 
 L'interazione fra OIV e amministrazione deve portare benefici reciproci
 in termini di scambio di informazioni, costruzione di una visione
@@ -237,60 +220,63 @@ responsabilità proprie dell'OIV con quelle proprie dei dirigenti. I
 dirigenti sono responsabili in via esclusiva dell'attività
 amministrativa, della gestione e dei relativi risultati.
 
-+--------------------------------------------------------------------------+
-| **Box 1 – Il parere vincolante sul SMVP da parte dell'OIV**              |
-|                                                                          |
-| L'OIV esprime il proprio parere sul SMVP valutando la coerenza delle     |
-| scelte operate dall'amministrazione con il quadro normativo vigente e lo |
-| specifico contesto interno (organizzativo) ed esterno (*policy* e        |
-| *stakeholders*) dell'amministrazione di appartenenza.                    |
-|                                                                          |
-| A tal fine, in relazione alle modalità di misurazione e valutazione      |
-| della *performance* organizzativa, l'OIV considera in particolare la     |
-| corretta declinazione della dimensione temporale (orizzonte strategico   |
-| pluriennale collegato alla dimensione di *outcome* e orizzonte annuale   |
-| collegato alle unità di analisi della *performance* organizzativa        |
-| illustrate al par. 4.1), le fonti e tipologie di indicatori (vedi par.   |
-| 4.2), le modalità di raccordo con il ciclo del bilancio, i sistemi di    |
-| rilevazione del grado di soddisfazione di cittadini e utenti adottati    |
-| dall'amministrazione, la dettagliata descrizione di tutte le fasi del    |
-| ciclo e la chiarezza dei ruoli attribuiti ai diversi soggetti nelle      |
-| varie fasi illustrate nella precedente figura 2.                         |
-|                                                                          |
-| Nell'esprimere il proprio parere sul SMVP, l'OIV tiene conto del         |
-| contesto organizzativo e delle risorse dell'amministrazione.             |
-|                                                                          |
-| Se ad esempio un'amministrazione non utilizza un sistema di contabilità  |
-| analitica, gli indicatori di costo ed efficienza economica collegati ai  |
-| processi saranno probabilmente poco significativi; in tal caso, è        |
-| opportuno che l'OIV suggerisca all'amministrazione un percorso graduale  |
-| e sostenibile di adeguamento del SMVP entro scadenze prefissate. I       |
-| progressi realizzati lungo tale percorso dovranno essere presi in        |
-| considerazione in sede di Relazione annuale sullo stato del SMVP.        |
-|                                                                          |
-| In relazione alle modalità di misurazione e valutazione della            |
-| *performance* individuale, l'OIV formula un parere con particolare       |
-| riferimento ai parametri che compongono la *performance* individuale e   |
-| alla correttezza metodologica delle misure adottate (vedi par. 5.1), al  |
-| processo della valutazione individuale e alla chiarezza delle modalità   |
-| con cui viene formulata la valutazione finale (vedi par 5.2) e alle      |
-| procedure di conciliazione a garanzia dei valutati.                      |
-|                                                                          |
-| Anche riguardo alla misurazione e valutazione della *performance*        |
-| individuale, nella formulazione del parere, l'OIV deve tener conto dello |
-| specifico contesto per assicurare la sostenibilità degli eventuali       |
-| cambiamenti suggeriti.                                                   |
-|                                                                          |
-| Tali suggerimenti, in coerenza con la previsione di aggiornamento        |
-| annuale del SMVP da parte dell'amministrazione, sono contenuti nella     |
-| Relazione annuale sul funzionamento del SMVP, che è il documento nel     |
-| quale l'OIV rende conto del funzionamento complessivo del SMVP e formula |
-| proposte e raccomandazioni ai vertici dell'amministrazione, al fine di   |
-| aiutare l'amministrazione nell'introduzione di modifiche migliorative.   |
-+--------------------------------------------------------------------------+
++-----------------------------------------------------------------------+
+| **Box 1 – Il parere vincolante sul SMVP da parte dell'OIV**           |
+|                                                                       |
+| L'OIV esprime il proprio parere sul SMVP valutando la coerenza delle  |
+| scelte operate dall'amministrazione con il quadro normativo vigente e |
+| lo specifico contesto interno (organizzativo) ed esterno (*policy* e  |
+| *stakeholders*) dell'amministrazione di appartenenza.                 |
+|                                                                       |
+| A tal fine, in relazione alle modalità di misurazione e valutazione   |
+| della *performance* organizzativa, l'OIV considera in particolare la  |
+| corretta declinazione della dimensione temporale (orizzonte           |
+| strategico pluriennale collegato alla dimensione di *outcome* e       |
+| orizzonte annuale collegato alle unità di analisi della *performance* |
+| organizzativa illustrate al par. 4.1), le fonti e tipologie di        |
+| indicatori (vedi par. 4.2), le modalità di raccordo con il ciclo del  |
+| bilancio, i sistemi di rilevazione del grado di soddisfazione di      |
+| cittadini e utenti adottati dall'amministrazione, la dettagliata      |
+| descrizione di tutte le fasi del ciclo e la chiarezza dei ruoli       |
+| attribuiti ai diversi soggetti nelle varie fasi illustrate nella      |
+| precedente figura 2.                                                  |
+|                                                                       |
+| Nell'esprimere il proprio parere sul SMVP, l'OIV tiene conto del      |
+| contesto organizzativo e delle risorse dell'amministrazione.          |
+|                                                                       |
+| Se ad esempio un'amministrazione non utilizza un sistema di           |
+| contabilità analitica, gli indicatori di costo ed efficienza          |
+| economica collegati ai processi saranno probabilmente poco            |
+| significativi; in tal caso, è opportuno che l'OIV suggerisca          |
+| all'amministrazione un percorso graduale e sostenibile di adeguamento |
+| del SMVP entro scadenze prefissate. I progressi realizzati lungo tale |
+| percorso dovranno essere presi in considerazione in sede di Relazione |
+| annuale sullo stato del SMVP.                                         |
+|                                                                       |
+| In relazione alle modalità di misurazione e valutazione della         |
+| *performance* individuale, l'OIV formula un parere con particolare    |
+| riferimento ai parametri che compongono la *performance* individuale  |
+| e alla correttezza metodologica delle misure adottate (vedi par.      |
+| 5.1), al processo della valutazione individuale e alla chiarezza      |
+| delle modalità con cui viene formulata la valutazione finale (vedi    |
+| par 5.2) e alle procedure di conciliazione a garanzia dei valutati.   |
+|                                                                       |
+| Anche riguardo alla misurazione e valutazione della *performance*     |
+| individuale, nella formulazione del parere, l'OIV deve tener conto    |
+| dello specifico contesto per assicurare la sostenibilità degli        |
+| eventuali cambiamenti suggeriti.                                      |
+|                                                                       |
+| Tali suggerimenti, in coerenza con la previsione di aggiornamento     |
+| annuale del SMVP da parte dell'amministrazione, sono contenuti nella  |
+| Relazione annuale sul funzionamento del SMVP, che è il documento nel  |
+| quale l'OIV rende conto del funzionamento complessivo del SMVP e      |
+| formula proposte e raccomandazioni ai vertici dell'amministrazione,   |
+| al fine di aiutare l'amministrazione nell'introduzione di modifiche   |
+| migliorative.                                                         |
++-----------------------------------------------------------------------+
 
 Misurazione e valutazione della *performance*
-=============================================
+---------------------------------------------
 
 Per le finalità di queste linee guida è utile definire e distinguere le
 *attività di misurazione* da quelle *di valutazione*.
@@ -306,7 +292,7 @@ di riferimento.
 
 *Misurazione e valutazione della performance sono attività distinte ma
 complementari*, in quanto fasi del più ampio **Ciclo della
-*Performance***. La figura seguente illustra il ciclo complessivo.
+Performance**. La figura seguente illustra il ciclo complessivo.
 
 *Figura 3 – Il ciclo della Performance nelle amministrazioni centrali
 dello Stato*
@@ -330,7 +316,7 @@ di un unico e più ampio processo di pianificazione e programmazione
 
 +-----------------------------------------------------------------------+
 | **Box 2 – I documenti di programmazione nei ministeri e la loro       |
-| collocazione nel ciclo della *performance***                          |
+| collocazione nel ciclo della performance**                            |
 |                                                                       |
 | Ai fini di una efficace gestione del processo di pianificazione e     |
 | programmazione e di una sua corretta formalizzazione, sono fornite    |
@@ -338,9 +324,7 @@ di un unico e più ampio processo di pianificazione e programmazione
 | principali che, per i ministeri, sono:                                |
 |                                                                       |
 | 1) Piano della *performance*;                                         |
-|                                                                       |
 | 2) Nota integrativa a Legge di Bilancio;                              |
-|                                                                       |
 | 3) Direttiva generale sull'azione amministrativa e la gestione.       |
 |                                                                       |
 | Essi sono diverse rappresentazioni dei contenuti propri di un unico   |
@@ -393,7 +377,6 @@ di un unico e più ampio processo di pianificazione e programmazione
 |    nella Direttiva, in relazione ai quali gli OIV devono segnalare la |
 |    necessità o l'opportunità di interventi correttivi in corso di     |
 |    esercizio all'organo di indirizzo politico-amministrativo;         |
-|                                                                       |
 | -  gli OIV in sede di redazione della Relazione annuale sul           |
 |    funzionamento complessivo del sistema analizzano le modalità di    |
 |    svolgimento del processo di misurazione e valutazione di tutti gli |
@@ -425,8 +408,8 @@ raggiungimento degli obiettivi medesimi, anche al fine di apprendere per
 migliorare nell'anno successivo.
 
 In base al d.lgs. 150/2009 la fase di valutazione deve avere come
-*output* la **Relazione annuale sulla *Performance ***\ che, evidenzia,
-a consuntivo, i risultati organizzativi e individuali raggiunti rispetto
+*output* la **Relazione annuale sulla Performance**\ che, evidenzia, a
+consuntivo, i risultati organizzativi e individuali raggiunti rispetto
 agli obiettivi programmati e formalizzati nel Piano. Nella Relazione,
 l'amministrazione inoltre evidenzia le modalità secondo cui si è svolto,
 nell'anno di riferimento, l'intero processo di misurazione e
@@ -437,20 +420,17 @@ valutazione.
 correlate:
 
 1. *amministrazione nel suo complesso*, ad esempio il Ministero delle
-   infrastrutture e trasporti (MIT) in modo unitario includendo sia
-   le strutture centrali che periferiche;
-
+   infrastrutture e trasporti (MIT) in modo unitario includendo sia le
+   strutture centrali che periferiche;
 2. *singole articolazioni dell'amministrazione,* lungo tutto la linea
    organizzativa, centrali o periferiche; con riferimento al MIT ad
-   esempio: il Dipartimento per le infrastrutture, i sistemi
-   informativi e statistici (I livello), la Direzione generale per
-   la regolazione e i contratti pubblici (II livello), il
-   Provveditorato alle opere pubbliche (articolazione territoriale),
-   la Div. 1 - Affari generali della Direzione generale per la
-   regolazione e i contratti pubblici (III livello);
-
+   esempio: il Dipartimento per le infrastrutture, i sistemi informativi
+   e statistici (I livello), la Direzione generale per la regolazione e
+   i contratti pubblici (II livello), il Provveditorato alle opere
+   pubbliche (articolazione territoriale), la Div. 1 - Affari generali
+   della Direzione generale per la regolazione e i contratti pubblici
+   (III livello);
 3. *processi e progetti,* su cui si tornerà nel paragrafo 4.1;
-
 4. *individui*.
 
 Le unità di analisi 1, 2, 3 rientrano nel perimetro della *performance*
@@ -463,7 +443,7 @@ programmata e coordinata degli individui consente infatti il
 raggiungimento di risultati organizzativi.
 
 La misurazione e valutazione della *performance* organizzativa
-==============================================================
+--------------------------------------------------------------
 
 In questo paragrafo si entra nel dettaglio del sistema di misurazione e
 valutazione della *performance* organizzativa, soffermandoci in
@@ -472,7 +452,7 @@ gli indicatori, il passaggio dalla misurazione alla valutazione, la
 partecipazione di cittadini ed utenti.
 
 Le unità di analisi della misurazione
--------------------------------------
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 La misurazione della *performance* organizzativa può essere riferita a
 tre diverse unità di analisi: (1) amministrazione nel suo complesso; (2)
@@ -500,7 +480,6 @@ stessa unità organizzativa,** caratterizzato da:
    può essere un prodotto o servizio (ad esempio erogazione di un
    beneficio, rilascio di un'autorizzazione o produzione di un atto
    normativo o amministrativo);
-
 -  *input,* ossia dalle risorse utilizzate per realizzare *l'output* che
    possono includere risorse umane, finanziarie o strumentali.
 
@@ -517,19 +496,16 @@ L'attività è un utile elemento per la misurazione e valutazione della
 
 -  l'attività è un elemento più stabile rispetto alla struttura
    organizzativa. Se la misurazione viene legata alle attività, nel
-   momento di un cambiamento organizzativo è sufficiente trasferire
-   la responsabilità della *performance* associata ad una data
-   attività da un'unità organizzativa all'altra;
-
+   momento di un cambiamento organizzativo è sufficiente trasferire la
+   responsabilità della *performance* associata ad una data attività da
+   un'unità organizzativa all'altra;
 -  le attività agevolano il confronto fra le amministrazioni. Nel caso
-   dei ministeri, pur avendo ciascuno un insieme di attività
-   specifiche legate alla propria missione, tutti hanno un insieme
-   di attività comuni legate al supporto interno (contabilità,
-   personale, approvvigionamenti, etc.). Misurare le attività sulla
-   base di un comune glossario, consentirebbe di individuare buone
-   pratiche nella gestione, favorendo il miglioramento della
-   *performance*;
-
+   dei ministeri, pur avendo ciascuno un insieme di attività specifiche
+   legate alla propria missione, tutti hanno un insieme di attività
+   comuni legate al supporto interno (contabilità, personale,
+   approvvigionamenti, etc.). Misurare le attività sulla base di un
+   comune glossario, consentirebbe di individuare buone pratiche nella
+   gestione, favorendo il miglioramento della *performance*;
 -  lo schema per attività consente di avere un quadro di che cosa fa
    l'amministrazione.
 
@@ -547,8 +523,8 @@ risultati.
 
 Per le finalità di queste linee guida il **processo** è definito come
 una **sequenza organizzata di attività finalizzate alla creazione di un
-*output*** richiesto o necessario ad un **utente (interno o esterno)**
-che può attraversare più unità organizzative. Proprio la finalizzazione
+output** richiesto o necessario ad un **utente (interno o esterno)** che
+può attraversare più unità organizzative. Proprio la finalizzazione
 verso un utente rappresenta l'elemento chiave per una più efficace
 rappresentazione della *performance*.
 
@@ -556,7 +532,8 @@ La figura 5 illustra il concetto di processo (parte rossa dello schema),
 in un caso tipico in cui il processo attraversa più unità organizzative.
 Nei casi più complessi il processo può attraversare più amministrazioni.
 
-*Figura 5 – Illustrazione di un processo trasversale alle unità organizzative*
+*Figura 5 – Illustrazione di un processo trasversale alle unità
+organizzative*
 
 |image6|
 
@@ -565,47 +542,41 @@ Il *focus* sui processi consente di:
 -  misurare l'efficacia del servizio finale all'utente, sia erogata (ad
    esempio, i tempi di erogazione di un servizio) che percepita
    (soddisfazione rispetto alla cortesia del personale), andando a
-   definire sin dalla fase di programmazione gli elementi rilevanti
-   del servizio/prodotto;
-
+   definire sin dalla fase di programmazione gli elementi rilevanti del
+   servizio/prodotto;
 -  misurare l'efficienza del processo nel suo complesso e delle singole
    attività che lo compongono, mettendo eventualmente in relazione
    l'efficienza con l'efficacia;
-
 -  cogliere le *performance* trasversali alle unità organizzative. Si
    pensi, ad esempio, al processo di erogazione di incentivi. Questo
    processo è spesso trasversale a più unità organizzative, ognuna
    coinvolta in attività diverse, come la progettazione dello schema
-   normativo, la regolamentazione delle modalità di accesso, la
-   gestione finanziaria dell'erogazione o le attività di
-   comunicazione all'esterno. La finalità è, tuttavia, comune, e
-   consiste nell'erogazione efficace ed efficiente degli incentivi.
-   L'analisi per processi consente di individuare indicatori di
-   *performance* trasversali legati all'utente finale e di
-   individuare, attraverso le attività, i contributi più specifici
-   delle singole unità organizzative;
-
+   normativo, la regolamentazione delle modalità di accesso, la gestione
+   finanziaria dell'erogazione o le attività di comunicazione
+   all'esterno. La finalità è, tuttavia, comune, e consiste
+   nell'erogazione efficace ed efficiente degli incentivi. L'analisi per
+   processi consente di individuare indicatori di *performance*
+   trasversali legati all'utente finale e di individuare, attraverso le
+   attività, i contributi più specifici delle singole unità
+   organizzative;
 -  agevolare la corretta individuazione degli *output* prodotti
-   dall'amministrazione, con particolare riferimento ai servizi
-   erogati e alla conseguente identificazione degli utenti (interni
-   o esterni) a cui questi ultimi sono rivolti, rendendo più
-   immediato il collegamento tra misurazione e valutazione della
-   *performance* organizzativa e gli esiti delle indagini sul
-   livello di soddisfazione di cittadini e utenti rispetto ai
-   servizi erogati;
-
+   dall'amministrazione, con particolare riferimento ai servizi erogati
+   e alla conseguente identificazione degli utenti (interni o esterni) a
+   cui questi ultimi sono rivolti, rendendo più immediato il
+   collegamento tra misurazione e valutazione della *performance*
+   organizzativa e gli esiti delle indagini sul livello di soddisfazione
+   di cittadini e utenti rispetto ai servizi erogati;
 -  favorire una più corretta pianificazione delle “risorse” necessarie
-   per realizzare gli *output*. Con particolare riferimento alle
-   risorse umane questo approccio risulta anche coerente con le
-   recenti modifiche normative in materia di pianificazione dei
-   fabbisogni di profili professionali che non devono essere più
-   legati alla dotazione organica;
-
+   per realizzare gli *output*. Con particolare riferimento alle risorse
+   umane questo approccio risulta anche coerente con le recenti
+   modifiche normative in materia di pianificazione dei fabbisogni di
+   profili professionali che non devono essere più legati alla dotazione
+   organica;
 -  incentivare la collaborazione tra unità organizzative.
 
 Infine è utile riprendere il concetto di **progetto** nel contesto di
 queste linee guida. Esso è un **insieme di attività finalizzato a
-realizzare un *output* ben preciso in un determinato intervallo di
+realizzare un output ben preciso in un determinato intervallo di
 tempo**, differenziandosi in questo senso da un processo destinato,
 invece, a ripetersi nel tempo.
 
@@ -623,9 +594,7 @@ Il progetto richiede la definizione delle attività col fine ultimo di
 individuare:
 
 -  le risorse necessarie;
-
 -  i tempi attesi di completamento;
-
 -  *l'output* e l'efficacia attesi per le diverse attività e
    complessivamente per il progetto.
 
@@ -635,7 +604,7 @@ inizio e fine: il rispetto dei tempi con i costi ipotizzati è infatti
 uno degli indicatori centrali della gestione per progetti.
 
 Gli indicatori
---------------
+~~~~~~~~~~~~~~
 
 Gli indicatori rappresentano un elemento cardine del sistema di
 misurazione.
@@ -649,7 +618,7 @@ nel Piano della *performance*, di un *set* di indicatori
 multidimensionale in grado di rappresentarne in modo efficace e completo
 la complessità.
 
-***Le dimensioni della performance organizzativa***
+**Le dimensioni della performance organizzativa**
 
 Nelle linee guida sul Piano della *performance* (alle quali si rimanda
 per la declinazione delle varie dimensioni) sono state introdotte le
@@ -659,15 +628,13 @@ riportati dall'art.8, comma 1, del d.lgs. 150/2009 come modificato dal
 d.lgs. 74/2017. Esse sono:
 
 -  lo **stato delle risorse**, come presupposto della *performance*
-   organizzativa: come si può migliorare l'efficienza e l'efficacia
-   di una struttura se non si conosce, non si tiene conto e non si
-   migliora lo stato delle risorse dell'amministrazione a livello
-   quantitativo ed a livello qualitativo?
-
--  l'\ **efficienza** e l'\ **efficacia**, che costituiscono il
-   nucleo centrale della *performance* organizzativa in quanto
-   misurano i risultati dell'azione organizzativa e individuale;
-
+   organizzativa: come si può migliorare l'efficienza e l'efficacia di
+   una struttura se non si conosce, non si tiene conto e non si migliora
+   lo stato delle risorse dell'amministrazione a livello quantitativo ed
+   a livello qualitativo?
+-  l'\ **efficienza** e l'\ **efficacia**, che costituiscono il nucleo
+   centrale della *performance* organizzativa in quanto misurano i
+   risultati dell'azione organizzativa e individuale;
 -  l'\ **impatto**, quale orizzonte e traguardo ultimo della
    *performance* organizzativa.
 
@@ -680,7 +647,7 @@ una fotografia delle risorse a disposizione dell'amministrazione.
 
 |image7|
 
-***Lo stato delle risorse***
+**Lo stato delle risorse**
 
 Gli indicatori sullo **stato delle risorse** misurano la quantità e
 qualità (livello di salute) delle risorse dell'amministrazione; le tre
@@ -688,10 +655,8 @@ principali aree sono:
 
 -  stato delle risorse **umane**: quantità (numero dipendenti, etc.) e
    qualità (competenze, benessere, etc.) [2]_;
-
 -  stato delle risorse **economico-finanziarie**: quantità (importi,
    etc.) e qualità (valore del debito, etc.);
-
 -  stato delle risorse **strumentali**: quantità (mq. spazi, n.
    computer, etc.) e qualità (adeguatezza *software*,
    sicurezza/ergonomia luogo di lavoro, etc.).
@@ -705,23 +670,20 @@ principali aree sono:
 | all'interno delle amministrazioni sistemi informativi relativi a:     |
 |                                                                       |
 | -  gestione delle risorse umane;                                      |
-|                                                                       |
 | -  analisi e rappresentazione dei processi;                           |
-|                                                                       |
 | -  alimentazione del sistema degli indicatori.                        |
 |                                                                       |
 | Per quanto riguarda la gestione delle risorse umane, i sistemi        |
 | informativi a disposizione delle amministrazioni centrali dello Stato |
 | sono più di uno. Tra gli altri è possibile utilizzare i dati del      |
 | sistema del “conto annuale” gestito da RGS                            |
-| (`http://www.rgs.mef.gov.it/VERSIONE-I/e-GOVERNME1/SICO/Conto-annu/20 |
+| (http://www.rgs.mef.gov.it/VERSIONE-I/e-GOVERNME1/SICO/Conto-annu/20  |
 | 16/ <http://www.rgs.mef.gov.it/VERSIONE-I/e-GOVERNME1/SICO/Conto-annu |
-| /2016/>`__                                                            |
-| ). Esso raccoglie e rende disponibili in formato aperto numerose      |
-| informazioni relative alla consistenza e composizione del personale   |
-| ed alle corrispondenti spese sostenute dalle amministrazioni          |
-| pubbliche, consentendo analisi di *benchmark* e confronti             |
-| internazionali.                                                       |
+| /2016/>_\_ ). Esso raccoglie e rende disponibili in formato aperto    |
+| numerose informazioni relative alla consistenza e composizione del    |
+| personale ed alle corrispondenti spese sostenute dalle                |
+| amministrazioni pubbliche, consentendo analisi di *benchmark* e       |
+| confronti internazionali.                                             |
 |                                                                       |
 | Sempre con riguardo alla gestione delle risorse umane, si segnala il  |
 | processo di innovazione in atto nel sistema NOIPA, che attualmente    |
@@ -753,18 +715,14 @@ principali aree sono:
 |                                                                       |
 | -  calcolare l'efficacia, efficienza tecnica e l'efficienza economica |
 |    di ogni struttura impostata come centro di costo finale;           |
-|                                                                       |
 | -  calcolare i costi dei prodotti e, per aggregazione, delle          |
 |    attività, dei compiti degli uffici, delle missioni di bilancio e   |
 |    dei programmi di spesa collegati;                                  |
-|                                                                       |
 | -  monitorare, con cadenza trimestrale, il livello di *performance*   |
 |    conseguito dagli uffici dirigenziali di livello non generale in    |
 |    relazione agli obiettivi assegnati;                                |
-|                                                                       |
 | -  fornire la base dati necessaria per la compilazione della          |
 |    Relazione al conto annuale;                                        |
-|                                                                       |
 | -  fornire la base dati necessaria per il calcolo automatico dei      |
 |    tassi di assenza/presenza del personale.                           |
 |                                                                       |
@@ -811,12 +769,10 @@ principali aree sono:
 |                                                                       |
 | -  supportare il processo di formazione e gestione del bilancio       |
 |    finanziario;                                                       |
-|                                                                       |
 | -  alimentare in modo omogeneo, attendibile e tempestivo le scritture |
 |    di contabilità economica analitica per centri di costo delle       |
 |    amministrazioni centrali dello Stato secondo la logica della       |
 |    partita doppia;                                                    |
-|                                                                       |
 | -  fornire dati per il controllo di gestione.                         |
 |                                                                       |
 | Il sistema SICOGE è in uso in tutti i ministeri.                      |
@@ -835,18 +791,18 @@ principali aree sono:
 | e ai progetti.                                                        |
 +-----------------------------------------------------------------------+
 
-***L'efficienza e l'efficacia***
+**L'efficienza e l'efficacia**
 
 Il nucleo centrale della *performance* organizzativa è costituito dalle
-dimensioni di ***efficienza ed efficacia***.
+dimensioni di **efficienza ed efficacia**.
 
-La dimensione dell'\ ***efficienza*** esprime la capacità di utilizzare
-le risorse (*input*) in modo sostenibile e tempestivo nel processo di
+La dimensione dell'\ **efficienza** esprime la capacità di utilizzare le
+risorse (*input*) in modo sostenibile e tempestivo nel processo di
 produzione ed erogazione del servizio (*output*) o, in altri termini, la
 capacità di produrre beni e servizi minimizzando il tempo e/o le risorse
 impiegati.
 
-La dimensione dell'\ ***efficacia***, esprime l'adeguatezza
+La dimensione dell'\ **efficacia**, esprime l'adeguatezza
 dell'\ *output* erogato rispetto alle aspettative e alle necessità degli
 utenti (interni ed esterni). Per misurare l'efficacia dell'azione di una
 amministrazione, è quindi fondamentale individuare quali dimensioni
@@ -867,14 +823,13 @@ possibili due vie:
    caratteristiche reali, come la disponibilità del servizio, i tempi di
    attesa, il numero di errori commessi, la possibilità di accesso
    tramite *web*;
-
 -  efficacia soggettiva o percepita, andando a rilevare la percezione
    che gli utenti hanno del servizio, generalmente attraverso indagini
    di *customer satisfaction*, interviste o *focus group*.
 
-***L'impatto***
+**L'impatto**
 
-La dimensione dell'\ ***impatto*** esprime l'effetto generato da una
+La dimensione dell'\ **impatto** esprime l'effetto generato da una
 politica o da un servizio sui destinatari diretti o indiretti, nel
 medio-lungo termine, nell'ottica della creazione di valore pubblico,
 ovvero del miglioramento del livello di benessere rispetto alle
@@ -889,7 +844,7 @@ generarlo anche a favore di quelli futuri, l'amministrazione deve essere
 efficace ed efficiente tenuto conto della quantità e della qualità delle
 risorse disponibili.
 
-***I requisiti degli indicatori***
+**I requisiti degli indicatori**
 
 La definizione degli indicatori che l'amministrazione utilizza per
 programmare, misurare e poi valutare la *performance* è un'attività di
@@ -918,20 +873,18 @@ deve essere caratterizzato da:
    sharing*, misurare l'aumento del numero medio degli utenti
    giornalieri potrebbe essere più utile che misurare l'aumento totale
    del numero di utenti;
-
 -  *completezza*, ossia la capacità del sistema di indicatori di
    rappresentare le variabili principali che determinano i risultati
    dell'amministrazione. Riprendendo l'esempio del “\ *miglioramento
    della mobilità sostenibile*\ ” non sarà sufficiente avere un
-   indicatore che misura la quantità di incentivi erogati, ma si
-   dovrà misurare anche l'aumento del numero di utenti dei servizi
-   di mobilità sostenibile, l'aumento della disponibilità (in
-   termini di numero di mezzi, numero e lunghezza delle linee, etc.)
-   dei servizi di mobilità sostenibile, etc. Anche in questo caso
-   l'impatto e l'efficacia sull'utente sono un elemento guida, da
-   associare all'efficienza e efficacia dei processi o progetti che
-   portano a determinare una migliore o peggiore *performance* sugli
-   utenti.
+   indicatore che misura la quantità di incentivi erogati, ma si dovrà
+   misurare anche l'aumento del numero di utenti dei servizi di mobilità
+   sostenibile, l'aumento della disponibilità (in termini di numero di
+   mezzi, numero e lunghezza delle linee, etc.) dei servizi di mobilità
+   sostenibile, etc. Anche in questo caso l'impatto e l'efficacia
+   sull'utente sono un elemento guida, da associare all'efficienza e
+   efficacia dei processi o progetti che portano a determinare una
+   migliore o peggiore *performance* sugli utenti.
 
 L'incompletezza e la scarsa precisione hanno implicazioni sia sulla fase
 di pianificazione che su quella di misurazione e valutazione. In fase di
@@ -946,32 +899,30 @@ Ciascun indicatore utilizzato, inoltre, deve possedere i seguenti
 requisiti:
 
 -  *tempestività,* intesa come la capacità di fornire le informazioni
-   necessarie in tempi utili ai decisori; vi possono essere
-   indicatori estremamente interessanti ma i cui valori sono resi
-   disponibili solo con un certo ritardo rispetto al periodo al
-   quale si riferiscono e questo li rende spesso inutilizzabili
-   perché il processo di misurazione e valutazione deve completarsi
-   con una tempistica predefinita;
-
+   necessarie in tempi utili ai decisori; vi possono essere indicatori
+   estremamente interessanti ma i cui valori sono resi disponibili solo
+   con un certo ritardo rispetto al periodo al quale si riferiscono e
+   questo li rende spesso inutilizzabili perché il processo di
+   misurazione e valutazione deve completarsi con una tempistica
+   predefinita;
 -  *misurabilità*: capacità dell'indicatore di essere quantificabile
    secondo una procedura oggettiva, basata su fonti affidabili. È
-   fortemente sconsigliato, ad esempio, l'utilizzo di indicatori
-   basati su giudizi qualitativi espressi del personale stesso. Poco
+   fortemente sconsigliato, ad esempio, l'utilizzo di indicatori basati
+   su giudizi qualitativi espressi del personale stesso. Poco
    appropriati anche indicatori quantitativi ma non presidiati dalle
    strutture di supporto alla programmazione. Si pensi, ad esempio,
-   all'attività di vigilanza di un Ministero. In alcuni casi a
-   questa attività è associato l'indicatore “n° schede elaborate”.
-   Questo indicatore oltre ad essere incompleto e impreciso (vedi
-   sopra), è spesso misurato direttamente dalle strutture che lo
-   gestiscono, non condividendo procedure e database con gli uffici
-   di supporto alla programmazione. Più in generale l'affidabilità
-   delle fonti interne (quindi legate a sistemi informativi
-   strutturati) o esterne (fonti ufficiali) è centrale per la
-   misurabilità. Le autodichiarazioni poco si sposano con questo
-   requisito.
+   all'attività di vigilanza di un Ministero. In alcuni casi a questa
+   attività è associato l'indicatore “n° schede elaborate”. Questo
+   indicatore oltre ad essere incompleto e impreciso (vedi sopra), è
+   spesso misurato direttamente dalle strutture che lo gestiscono, non
+   condividendo procedure e database con gli uffici di supporto alla
+   programmazione. Più in generale l'affidabilità delle fonti interne
+   (quindi legate a sistemi informativi strutturati) o esterne (fonti
+   ufficiali) è centrale per la misurabilità. Le autodichiarazioni poco
+   si sposano con questo requisito.
 
 +-----------------------------------------------------------------------+
-| **Box 5 Monitoraggio della *performance* organizzativa**              |
+| **Box 5 Monitoraggio della performance organizzativa**                |
 |                                                                       |
 | La misurazione è funzionale al monitoraggio *in* *itinere* (o         |
 | periodico) e alla valutazione al termine del periodo di riferimento.  |
@@ -996,7 +947,7 @@ requisiti:
 +-----------------------------------------------------------------------+
 
 Dalla misurazione alla valutazione
-----------------------------------
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 La valutazione della *performance* organizzativa si basa sull'analisi e
 contestualizzazione delle cause dello scostamento tra i risultati
@@ -1020,7 +971,6 @@ a:
 
 -  fattori esogeni, ossia fattori non direttamente controllabili
    dall'amministrazione;
-
 -  fattori endogeni, ossia variabili controllabili dall'amministrazione,
    che presentano valori diversi da quanto preventivato in fase di
    pianificazione.
@@ -1044,32 +994,29 @@ nella formulazione del valore atteso il costo d'ammortamento del
 La fase di valutazione diviene, quindi, fondamentale per:
 
 -  identificare i fattori che hanno portato allo scostamento; in questa
-   fase l'analisi dei rischi che le amministrazioni dovrebbero
-   condurre in fase di programmazione diventa un utile strumento. I
-   rischi sono infatti eventi che possono inficiare il
-   raggiungimento degli obiettivi e che l'amministrazione decide di
-   monitorare. Le cause degli scostamenti sono rischi che si sono
-   verificati. L'analisi delle cause consente di migliorare il
-   “catalogo” dei rischi per il futuro periodo di programmazione e,
-   eventualmente, inserire il monitoraggio dei rischi nei sistemi di
-   controllo;
-
+   fase l'analisi dei rischi che le amministrazioni dovrebbero condurre
+   in fase di programmazione diventa un utile strumento. I rischi sono
+   infatti eventi che possono inficiare il raggiungimento degli
+   obiettivi e che l'amministrazione decide di monitorare. Le cause
+   degli scostamenti sono rischi che si sono verificati. L'analisi delle
+   cause consente di migliorare il “catalogo” dei rischi per il futuro
+   periodo di programmazione e, eventualmente, inserire il monitoraggio
+   dei rischi nei sistemi di controllo;
 -  verificare se gli scostamenti sono dovuti ad un problema del sistema,
    con particolare riferimento alle fasi di programmazione e
    misurazione. In questo caso è utile tenere conto dei possibili
    miglioramenti del sistema valutando con attenzione il beneficio
-   informativo del miglioramento del sistema rispetto al costo e
-   alla sostenibilità dello stesso;
-
+   informativo del miglioramento del sistema rispetto al costo e alla
+   sostenibilità dello stesso;
 -  analizzare se le cause di scostamento sono esogene o endogene; è qui
    importante sottolineare che la separazione tra fattori esogeni e
    endogeni non sempre è così netta: la riduzione di efficienza del
    personale, ad esempio, può essere un fattore esogeno se si
    considerano elementi accidentali (sostituzione per malattia del
-   personale durante l'anno, con conseguente periodo di
-   apprendimento sui processi) ma anche, anzi soprattutto, un
-   fattore endogeno (legato ad errori in fase di progettazione del
-   processo o in quella di gestione delle risorse umane).
+   personale durante l'anno, con conseguente periodo di apprendimento
+   sui processi) ma anche, anzi soprattutto, un fattore endogeno (legato
+   ad errori in fase di progettazione del processo o in quella di
+   gestione delle risorse umane).
 
 La fase di valutazione si conclude, quindi, con la formulazione di un
 giudizio o con l'assegnazione di un punteggio (sulla base di metriche
@@ -1077,13 +1024,11 @@ predefinite), che potranno essere utilizzati per diverse finalità, fra
 le quali si ricordano, a titolo di esempio non esaustivo:
 
 -  il miglioramento organizzativo;
-
 -  la ridefinizione degli obiettivi dell'amministrazione;
-
 -  la valorizzazione delle risorse umane, anche attraverso gli strumenti
    di riconoscimento del merito e i metodi di incentivazione della
-   produttività e della qualità della prestazione lavorativa
-   previsti dalla normativa vigente.
+   produttività e della qualità della prestazione lavorativa previsti
+   dalla normativa vigente.
 
 Gli esiti del processo di valutazione della *performance* organizzativa
 devono essere documentati mediante reportistica appositamente definita
@@ -1093,7 +1038,7 @@ oggetto di ulteriori linee guida) che rappresenta l'atto conclusivo del
 ciclo della *performance*.
 
 La partecipazione dei cittadini e degli utenti
-----------------------------------------------
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Le recenti modifiche normative hanno rafforzato il principio della
 partecipazione degli utenti esterni ed interni e, più in generale dei
@@ -1104,8 +1049,8 @@ partecipazione.
 
 Tale partecipazione può essere espressa in due modalità:
 
--  in modo sistematico ed organico attraverso le **indagini di *customer
-   satisfaction*** volte a rilevare il grado di soddisfazione degli
+-  in modo sistematico ed organico attraverso le **indagini di customer
+   satisfaction** volte a rilevare il grado di soddisfazione degli
    utenti in relazione ai servizi erogati dalla pubblica
    amministrazione. Le indagini devono essere personalizzate in ragione
    dello specifico contesto organizzativo, utilizzando il *benchmark*
@@ -1114,7 +1059,6 @@ Tale partecipazione può essere espressa in due modalità:
    territoriali che svolgono attività omologhe, ma più in generale per
    le attività di supporto che le amministrazioni svolgono in modo
    ricorrente (ad esempio approvvigionamenti di beni *standard*);
-
 -  in modo diffuso ed aperto attraverso la **comunicazione diretta degli
    utenti esterni ed interni agli OIV** secondo le modalità definite
    dagli stessi OIV per la raccolta delle segnalazioni (vedi box 6).
@@ -1130,17 +1074,15 @@ In relazione alla prima modalità, i passaggi utili per mettere in atto
 un processo adeguato e sostenibile richiedono:
 
 -  la definizione di una mappatura degli utenti esterni e interni ed
-   individuazione del collegamento con attività, processi e
-   progetti. L'approccio per processi ha il vantaggio di favorire
-   l'individuazione dell'\ *output* finale di una serie di attività
-   correlate e quindi anche dell'utente interno o esterno;
-
+   individuazione del collegamento con attività, processi e progetti.
+   L'approccio per processi ha il vantaggio di favorire l'individuazione
+   dell'\ *output* finale di una serie di attività correlate e quindi
+   anche dell'utente interno o esterno;
 -  l'identificazione delle modalità di interazione con gli utenti; ad
    esempio un'amministrazione può optare per un ascolto e una
-   partecipazione diretta attraverso interviste oppure per un
-   ascolto mediato da tecnologie digitali, come i *social media* o i
-   questionari *online*;
-
+   partecipazione diretta attraverso interviste oppure per un ascolto
+   mediato da tecnologie digitali, come i *social media* o i questionari
+   *online*;
 -  la pubblicazione annuale sul proprio sito degli esiti della
    rilevazione con una rappresentazione chiara ed intellegibile.
 
@@ -1172,7 +1114,7 @@ Relazione sulla *performance.*
 | assegnati all'OIV per la definizione delle modalità di segnalazione   |
 | si riportano alcune esemplificazioni.                                 |
 |                                                                       |
-| A\) ***La partecipazione dei cittadini e degli utenti esterni***      |
+| A) **La partecipazione dei cittadini e degli utenti esterni**         |
 |                                                                       |
 | Gli OIV devono definire le modalità attraverso le quali i cittadini e |
 | gli utenti finali delle amministrazioni possono contribuire alla      |
@@ -1190,19 +1132,15 @@ Relazione sulla *performance.*
 | sezione OIV delle seguenti informazioni:                              |
 |                                                                       |
 | -  le modalità da seguire per la trasmissione di una segnalazione;    |
-|                                                                       |
 | -  il nome o i contatti dell'ufficio competente a ricevere la         |
 |    segnalazione;                                                      |
-|                                                                       |
 | -  due indirizzi di posta elettronica: uno di PEC collegato al        |
 |    sistema di protocollo e uno di posta ordinaria;                    |
-|                                                                       |
 | -  un *format* di segnalazione che presenti i seguenti elementi: le   |
 |    generalità di chi fa la segnalazione, l'oggetto della              |
-|    segnalazione, la struttura organizzativa interessata, il           |
-|    periodo di riferimento, la descrizione sintetica                   |
-|    dell'eventuale episodio di contatto con la amministrazione, la     |
-|    valutazione.                                                       |
+|    segnalazione, la struttura organizzativa interessata, il periodo   |
+|    di riferimento, la descrizione sintetica dell'eventuale episodio   |
+|    di contatto con la amministrazione, la valutazione.                |
 |                                                                       |
 | **Identificazione di chi fa la segnalazione**                         |
 |                                                                       |
@@ -1237,9 +1175,7 @@ Relazione sulla *performance.*
 | Di tali esiti gli OIV tengono conto in sede di:                       |
 |                                                                       |
 | -  valutazione della *performance* organizzativa;                     |
-|                                                                       |
 | -  validazione della Relazione sulla *performance;*                   |
-|                                                                       |
 | -  Relazione sul funzionamento complessivo del sistema.               |
 |                                                                       |
 | In coerenza con quanto indicato nel SMVP, l'OIV dovrà evidenziare     |
@@ -1247,7 +1183,7 @@ Relazione sulla *performance.*
 | della propria valutazione e come tali contributi hanno influito su di |
 | essa.                                                                 |
 |                                                                       |
-| B\) ***La partecipazione degli utenti interni***                      |
+| B) **La partecipazione degli utenti interni**                         |
 |                                                                       |
 | Al fine di favorire la partecipazione degli utenti interni al         |
 | processo di misurazione della *performance* organizzativa, gli OIV,   |
@@ -1261,29 +1197,22 @@ Relazione sulla *performance.*
 |                                                                       |
 | -  somministrazione di questionari appositamente predisposti ad un    |
 |    campione di utenti;                                                |
-|                                                                       |
 | -  realizzazione di interviste strutturate o semi-strutturate;        |
-|                                                                       |
 | -  organizzazione di *focus group*;                                   |
-|                                                                       |
 | -  organizzazione di colloqui individuali;                            |
-|                                                                       |
 | -  raccolta di segnalazioni.                                          |
 |                                                                       |
 | I fattori di valutazione da considerare sono principalmente i         |
 | seguenti:                                                             |
 |                                                                       |
 | -  rispetto delle tempistiche;                                        |
-|                                                                       |
 | -  affidabilità dei dati forniti;                                     |
-|                                                                       |
 | -  collaborazione e disponibilità;                                    |
-|                                                                       |
 | -  capacita di comunicazione.                                         |
 +-----------------------------------------------------------------------+
 
 La misurazione e valutazione della *performance* individuale
-============================================================
+------------------------------------------------------------
 
 L'obiettivo di questo capitolo è fornire elementi di riferimento per il
 sistema di misurazione e valutazione relativamente alla *performance*
@@ -1294,13 +1223,12 @@ individuale, si distingue tra:
 
 -  *gli elementi di riferimento*, che includono indicazioni su cosa e
    chi misura e valuta;
-
 -  *il processo*, che ripercorre le fasi in cui si articola il ciclo
    della *performance* individuale dalla programmazione alla
    valutazione.
 
 Elementi di riferimento per la misurazione e valutazione della performance individuale
---------------------------------------------------------------------------------------
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 La *performance* individuale, anche ai sensi dell'art. 9 del d.lgs.
 150/2009, è l'insieme dei risultati raggiunti e dei comportamenti
@@ -1310,25 +1238,23 @@ parole, il contributo fornito dal singolo al conseguimento della
 
 Le dimensioni che compongono la *performance* individuale sono:
 
--  ***risultati**,* riferiti agli obiettivi *annuali* inseriti nel Piano
-   della *performance* o negli altri documenti di programmazione;
+-  \*\ **risultati**,\* riferiti agli obiettivi *annuali* inseriti nel
+   Piano della *performance* o negli altri documenti di programmazione;
    essi sono a loro volta distinguibili, in base a quanto
    l'amministrazione indica nel proprio SMVP, in:
 
    -  risultati raggiunti attraverso attività e progetti di competenza
       dell'unità organizzativa di diretta responsabilità o appartenenza;
-
    -  risultati dell'amministrazione nel suo complesso o dell'unità
       organizzativa sovraordinata cui il valutato contribuisce;
-
    -  risultati legati ad eventuali obiettivi individuali specificamente
       assegnati;
 
--  ***comportamenti***, che attengono al “come” un'attività viene svolta
+-  **comportamenti**, che attengono al “come” un'attività viene svolta
    da ciascuno, all'interno dell'amministrazione; nell'ambito della
    valutazione dei comportamenti dei dirigenti/responsabili di unità
-   organizzative, una specifica rilevanza viene attribuita alla
-   capacità di valutazione dei propri collaboratori.
+   organizzative, una specifica rilevanza viene attribuita alla capacità
+   di valutazione dei propri collaboratori.
 
 La figura 7 illustra le dimensioni che compongono la *performance*
 individuale e la relazione con la *performance* organizzativa di cui al
@@ -1384,10 +1310,9 @@ esiti della misurazione e della valutazione.
 | aspetti:                                                             |
 |                                                                      |
 | -  la scelta dei pesi è guidata dalla mappatura dei ruoli            |
-|    organizzativi presenti nell'amministrazione, tenendo conto        |
-|    della struttura organizzativa, della linea gerarchica e della     |
-|    tipologia di attività svolta;                                     |
-|                                                                      |
+|    organizzativi presenti nell'amministrazione, tenendo conto della  |
+|    struttura organizzativa, della linea gerarchica e della tipologia |
+|    di attività svolta;                                               |
 | -  la scelta dei pesi orienta l'azione delle persone e dei gruppi in |
 |    quanto momento di “comunicazione” delle aspettative.              |
 |                                                                      |
@@ -1403,17 +1328,15 @@ esiti della misurazione e della valutazione.
 |    dell'organizzazione comunica alle persone che si intende          |
 |    sollecitare uno sforzo comune verso traguardi collettivi,         |
 |    incentivando la collaborazione e il lavoro di gruppo;             |
-|                                                                      |
 | -  assegnare invece un peso significativo a obiettivi individuali    |
 |    comunica che lo sforzo della persona deve essere innanzitutto     |
 |    diretto al contesto lavorativo di sua diretta responsabilità;     |
-|                                                                      |
 | -  dare un peso elevato ai comportamenti pone enfasi sul “come”      |
 |    vengono svolte le attività.                                       |
 +----------------------------------------------------------------------+
 
-I risultati 
-~~~~~~~~~~~~
+I risultati
+^^^^^^^^^^^
 
 Come già accennato anche nelle linee guida n. 1/2017, appare opportuno
 che i risultati considerati ai fini della *performance* individuale
@@ -1448,25 +1371,23 @@ dimensioni della *performance* individuale per i diversi ruoli
 organizzativi.
 
 +-----------------------------------------------------------------------+
-| **Box 8 – Le dimensioni della *performance* individuale**             |
+| **Box 8 – Le dimensioni della performance individuale**               |
 |                                                                       |
-| ***Esempio n. 1***- Dirigente apicale (Segretario Generale o Capo     |
+| **Esempio n. 1**- Dirigente apicale (Segretario Generale o Capo       |
 | Dipartimento), la performance individuale può essere composta da:     |
 |                                                                       |
 | -  risultati:                                                         |
 |                                                                       |
 |    -  risultati legati agli obiettivi annuali assegnati all'unità     |
-|       organizzativa di diretta responsabilità (ufficio                |
-|       dirigenziale di livello generale)                               |
-|                                                                       |
+|       organizzativa di diretta responsabilità (ufficio dirigenziale   |
+|       di livello generale)                                            |
 |    -  risultati del ministero nel suo complesso;                      |
-|                                                                       |
 |    -  eventuali risultati relativi ad altri obiettivi individuali     |
 |       assegnati al Dirigente apicale;                                 |
 |                                                                       |
 | -  comportamenti.                                                     |
 |                                                                       |
-| ***Esempio n. 2*** – Direttore generale, la *performance* individuale |
+| **Esempio n. 2** – Direttore generale, la *performance* individuale   |
 | può essere composta da:                                               |
 |                                                                       |
 | -  risultati:                                                         |
@@ -1474,16 +1395,14 @@ organizzativi.
 |    -  risultati legati agli obiettivi annuali assegnati all'unità     |
 |       organizzativa di diretta responsabilità (ufficio dirigenziale   |
 |       di livello generale);                                           |
-|                                                                       |
 |    -  risultati del ministero nel suo complesso o del dipartimento    |
 |       cui afferisce la direzione generale;                            |
-|                                                                       |
 |    -  eventuali risultati relativi ad altri obiettivi individuali     |
 |       assegnati al Direttore generale;                                |
 |                                                                       |
 | -  comportamenti.                                                     |
 |                                                                       |
-| ***Esempio n. 3*** – Dirigente di ufficio di livello non generale, la |
+| **Esempio n. 3** – Dirigente di ufficio di livello non generale, la   |
 | *performance* individuale può essere composta da:                     |
 |                                                                       |
 | -  risultati:                                                         |
@@ -1491,22 +1410,19 @@ organizzativi.
 |    -  risultati legati agli obiettivi annuali assegnati all'unità     |
 |       organizzativa di diretta responsabilità (ufficio dirigenziale   |
 |       di livello non generale);                                       |
-|                                                                       |
 |    -  risultati della direzione generale e/o dipartimento di          |
 |       appartenenza;                                                   |
-|                                                                       |
 |    -  eventuali risultati relativi ad altri obiettivi individuali     |
 |       assegnati al dirigente;                                         |
 |                                                                       |
 | -  comportamenti.                                                     |
 |                                                                       |
-| ***Esempio n. 4*** – Personale non dirigente, la performance          |
+| **Esempio n. 4** – Personale non dirigente, la performance            |
 | individuale può essere composta da:                                   |
 |                                                                       |
 | Caso a)                                                               |
 |                                                                       |
 | -  risultati dell'ufficio/gruppo di lavoro di appartenenza;           |
-|                                                                       |
 | -  comportamenti;                                                     |
 |                                                                       |
 |    (non vengono considerati i risultati individuali).                 |
@@ -1517,14 +1433,13 @@ organizzativi.
 |                                                                       |
 |    -  risultati individuali legati a obiettivi relativi ad attività e |
 |       progetti di specifica competenza del dipendente;                |
-|                                                                       |
 |    -  risultati dell'ufficio/gruppo di lavoro di appartenenza;        |
 |                                                                       |
 | -  comportamenti.                                                     |
 +-----------------------------------------------------------------------+
 
 I comportamenti
-~~~~~~~~~~~~~~~
+^^^^^^^^^^^^^^^
 
 I comportamenti sono azioni osservabili che l'individuo mette in atto
 per raggiungere un risultato.
@@ -1536,8 +1451,8 @@ risultato, il valutatore comunichi e formalizzi anche i comportamenti
 attesi.
 
 Per garantire un'adeguata omogeneità metodologica devono essere adottati
-**cataloghi (o dizionari o *framework*) di riferimento**. I cataloghi
-sono documenti in cui si individuano i comportamenti attesi per ciascun
+**cataloghi (o dizionari o framework) di riferimento**. I cataloghi sono
+documenti in cui si individuano i comportamenti attesi per ciascun
 *cluster* di ruolo organizzativo. I cataloghi descrivono elementi utili
 a rendere esplicito, sia al valutato che al valutatore, quali
 comportamenti sono ritenuti determinanti per lo svolgimento dei compiti
@@ -1557,47 +1472,43 @@ Pur incentivando la personalizzazione dei cataloghi, in queste linee
 guida si delineano alcuni requisiti minimi da formalizzare e utilizzare
 nel SMVP:
 
--  ***associazione tra comportamenti e mappa dei ruoli organizzativi***:
-   è importante chiarire quali comportamenti sono utilizzabili per
-   ciascun *cluster* di posizione. Ad esempio se l'amministrazione
-   ha nel proprio catalogo la *leadership* come comportamento,
-   questo sarà tipicamente utilizzabile per il personale di livello
-   dirigenziale generale mentre potrebbe essere poco utile
-   utilizzarlo per la valutazione del personale delle aree; in
-   alternativa al medesimo comportamento potrebbero essere associati
-   descrittori diversi (vedi punto successivo) in corrispondenza dei
-   diversi *cluster*, per tener conto delle specificità di ciascuno
-   di essi;
-
--  ***descrittori dei comportamenti***: per ciascun comportamento (ad
+-  **associazione tra comportamenti e mappa dei ruoli organizzativi**: è
+   importante chiarire quali comportamenti sono utilizzabili per ciascun
+   *cluster* di posizione. Ad esempio se l'amministrazione ha nel
+   proprio catalogo la *leadership* come comportamento, questo sarà
+   tipicamente utilizzabile per il personale di livello dirigenziale
+   generale mentre potrebbe essere poco utile utilizzarlo per la
+   valutazione del personale delle aree; in alternativa al medesimo
+   comportamento potrebbero essere associati descrittori diversi (vedi
+   punto successivo) in corrispondenza dei diversi *cluster*, per tener
+   conto delle specificità di ciascuno di essi;
+-  **descrittori dei comportamenti**: per ciascun comportamento (ad
    esempio: capacità di gestire le risorse umane) si descrivono una
-   serie di azioni osservabili considerate significative per
-   illustrare il comportamento atteso. Per la capacità di gestire le
-   risorse umane, ad esempio, si possono declinare le azioni quali
-   “coinvolge il gruppo nel lavoro, spiega cosa fare, come e
-   perché”; “conduce le riunioni interne promuovendo la
-   comunicazione e la partecipazione”; “distribuisce i carichi di
-   lavoro sulla base delle specifiche competenze/capacità dei
-   singoli e alla disponibilità di tempo che i soggetti hanno in
-   quel determinato momento”, etc. I descrittori sono utili sia al
-   valutatore che al valutato per chiarire i comportamenti attesi. è
-   utile avere descrittori diversi in corrispondenza delle diverse
-   scale di giudizio: ciò chiarisce a valutatore e valutato i
-   comportamenti in relazione ai diversi gradi di valutazione.
-   Infine si suggerisce di includere anche azioni ritenute
-   inadeguate e non solo positive;
-
--  ***scale di valutazione***: per definire il livello di adeguatezza o
-   meno del comportamento realizzato dal singolo, i cataloghi
-   possono utilizzare scale di giudizio o di valutazione che
-   consentano di “quantificare” in che misura (ad esempio, da
-   eccellente a inadeguato o in una scala numerica da 1 a 5) o con
-   quale frequenza (sempre, spesso, solo a volte, mai) un soggetto
-   ha manifestato e dimostrato, nello svolgimento dei suoi compiti
-   lavorativi, di possedere determinate caratteristiche.
+   serie di azioni osservabili considerate significative per illustrare
+   il comportamento atteso. Per la capacità di gestire le risorse umane,
+   ad esempio, si possono declinare le azioni quali “coinvolge il gruppo
+   nel lavoro, spiega cosa fare, come e perché”; “conduce le riunioni
+   interne promuovendo la comunicazione e la partecipazione”;
+   “distribuisce i carichi di lavoro sulla base delle specifiche
+   competenze/capacità dei singoli e alla disponibilità di tempo che i
+   soggetti hanno in quel determinato momento”, etc. I descrittori sono
+   utili sia al valutatore che al valutato per chiarire i comportamenti
+   attesi. è utile avere descrittori diversi in corrispondenza delle
+   diverse scale di giudizio: ciò chiarisce a valutatore e valutato i
+   comportamenti in relazione ai diversi gradi di valutazione. Infine si
+   suggerisce di includere anche azioni ritenute inadeguate e non solo
+   positive;
+-  **scale di valutazione**: per definire il livello di adeguatezza o
+   meno del comportamento realizzato dal singolo, i cataloghi possono
+   utilizzare scale di giudizio o di valutazione che consentano di
+   “quantificare” in che misura (ad esempio, da eccellente a inadeguato
+   o in una scala numerica da 1 a 5) o con quale frequenza (sempre,
+   spesso, solo a volte, mai) un soggetto ha manifestato e dimostrato,
+   nello svolgimento dei suoi compiti lavorativi, di possedere
+   determinate caratteristiche.
 
 Chi valuta la *performance* individuale
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 La valutazione della *performance* individuale è di responsabilità del
 superiore gerarchico, che può effettuarla con diverse modalità:
@@ -1605,30 +1516,27 @@ superiore gerarchico, che può effettuarla con diverse modalità:
 -  *valutazione del solo superiore gerarchico*: è la modalità più
    classica di valutazione, la cui logica risiede nel fatto che il
    superiore, oltre a essere responsabile di tutte le attività dei
-   collaboratori, dovrebbe essere la persona che ha tutte le
-   competenze e informazioni per valutare;
-
+   collaboratori, dovrebbe essere la persona che ha tutte le competenze
+   e informazioni per valutare;
 -  *valutazione del superiore gerarchico preceduta da autovalutazione*:
-   è la modalità che prevede una fase iniziale di autovalutazione.
-   Gli esiti dell'autovalutazione potranno essere utilizzati,
-   durante i colloqui di valutazione, come ulteriore elemento di
-   confronto e apprendimento tra valutato e valutatore;
-
+   è la modalità che prevede una fase iniziale di autovalutazione. Gli
+   esiti dell'autovalutazione potranno essere utilizzati, durante i
+   colloqui di valutazione, come ulteriore elemento di confronto e
+   apprendimento tra valutato e valutatore;
 -  *valutazione del superiore gerarchico e altre parti*: in alcune
-   situazioni il superiore gerarchico può non avere la possibilità
-   di monitorare con continuità le prestazioni dei singoli
-   individui; lo stesso avviene nel caso di collaboratori che
-   svolgono attività molto specialistiche o che richiedano
-   conoscenze e strumenti molto specifici (come quelle svolte nei
-   centri di ricerca, oppure valutazione di collaboratori che
-   utilizzino conoscenze e strumenti molto specifici). In queste
-   situazioni può essere utile che il superiore gerarchico amplii le
-   informazioni in suo possesso per la valutazione coinvolgendo
-   anche figure intermedie a condizione che abbiano diretta
-   visibilità sulla prestazione del valutato.
+   situazioni il superiore gerarchico può non avere la possibilità di
+   monitorare con continuità le prestazioni dei singoli individui; lo
+   stesso avviene nel caso di collaboratori che svolgono attività molto
+   specialistiche o che richiedano conoscenze e strumenti molto
+   specifici (come quelle svolte nei centri di ricerca, oppure
+   valutazione di collaboratori che utilizzino conoscenze e strumenti
+   molto specifici). In queste situazioni può essere utile che il
+   superiore gerarchico amplii le informazioni in suo possesso per la
+   valutazione coinvolgendo anche figure intermedie a condizione che
+   abbiano diretta visibilità sulla prestazione del valutato.
 
 Il processo di programmazione, misurazione e valutazione della performance individuale
---------------------------------------------------------------------------------------
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Definiti gli elementi di riferimento per la *performance* individuale,
 il modello viene attuato attraverso un processo che parte dalla fine
@@ -1652,7 +1560,7 @@ obiettivi organizzativi.
 
 Di seguito si illustrano le fasi del processo.
 
-***Programmazione***
+**Programmazione**
 
 Nella fase di programmazione vengono definiti i comportamenti e i
 risultati attesi (individuali e organizzativi). Stabiliti gli obiettivi
@@ -1663,7 +1571,7 @@ nella formalizzazione da parte del valutatore di tutti gli obiettivi e
 comportamenti attesi assegnati a ciascun individuo (per esempio mediante
 l'utilizzo di apposite schede individuali).
 
-***Misurazioni e colloqui intermedi***
+**Misurazioni e colloqui intermedi**
 
 Durante l'anno i valutatori e i rispettivi valutati analizzano i
 risultati intermedi raggiunti e i comportamenti messi in atto. Questo
@@ -1678,7 +1586,7 @@ il confronto sulle motivazioni di eventuali scostamenti dalla
 *performance* attesa, consente il riallineamento a fronte di cambiamenti
 sostanziali del contesto di riferimento.
 
-***Valutazione conclusiva***
+**Valutazione conclusiva**
 
 La fase di valutazione conclusiva si articola in almeno tre momenti
 distinti:
@@ -1695,7 +1603,6 @@ distinti:
    attraverso le modalità organizzative citate in precedenza, le
    informazioni relative ai risultati organizzativi e individuali
    conseguiti;
-
 -  colloquio di *feedback* e presa visione delle valutazioni da parte
    dei valutati, che deve essere gestito non solo come un momento di
    chiarificazione sulla prestazione del valutato, ma anche come momento
@@ -1710,37 +1617,34 @@ distinti:
    presupposto per l'implementazione di interventi formativi *ad hoc* o
    per modifiche organizzative che incidano positivamente sulle
    prestazioni;
-
 -  eventuale attivazione delle procedure di conciliazione.
 
-
-+--------------------------------------------------------------------------+
-| **Box 9 - I colloqui di *feedback***                                     |
-|                                                                          |
-| Al fine di favorire una gestione strategica delle risorse umane, si      |
-| raccomanda di prevedere sempre dei momenti di *feedback* attraverso la   |
-| possibilità di svolgere dei colloqui intermedi fra valutatore e valutato |
-| aventi ad oggetto la possibilità concreta di raggiungere gli obiettivi,  |
-| il proprio ruolo nella organizzazione, i margini di miglioramento        |
-| individuale, il *management* della *performance.*                        |
-|                                                                          |
-| Oltre ai momenti di confronto previsti in sede di definizione degli      |
-| obiettivi (colloquio iniziale), revisione (colloquio intermedio),        |
-| valutazione conclusiva (colloquio finale) le amministrazioni possono     |
-| prevedere ulteriori momenti di confronto per un'analisi più mirata di    |
-| eventuali criticità.                                                     |
-|                                                                          |
-| Sempre allo scopo di dare voce ai valutati, è utile prevedere la         |
-| somministrazione periodica di questionari sulla percezione del sistema   |
-| di *performance management* da parte di tutto il personale.              |
-|                                                                          |
-| Nella gestione del processo è molto significativo il supporto            |
-| qualificato che viene dalla Direzione del personale anche nella          |
-| predisposizione di sistemi informativi, con modelli e format *standard*, |
-| che  riducano la produzione cartacea ed incrementino la efficienza del   |
-| processo.                                                                |
-|                                                                          |
-+--------------------------------------------------------------------------+
++-----------------------------------------------------------------------+
+| **Box 9 - I colloqui di feedback**                                    |
+|                                                                       |
+| Al fine di favorire una gestione strategica delle risorse umane, si   |
+| raccomanda di prevedere sempre dei momenti di *feedback* attraverso   |
+| la possibilità di svolgere dei colloqui intermedi fra valutatore e    |
+| valutato aventi ad oggetto la possibilità concreta di raggiungere gli |
+| obiettivi, il proprio ruolo nella organizzazione, i margini di        |
+| miglioramento individuale, il *management* della *performance.*       |
+|                                                                       |
+| Oltre ai momenti di confronto previsti in sede di definizione degli   |
+| obiettivi (colloquio iniziale), revisione (colloquio intermedio),     |
+| valutazione conclusiva (colloquio finale) le amministrazioni possono  |
+| prevedere ulteriori momenti di confronto per un'analisi più mirata di |
+| eventuali criticità.                                                  |
+|                                                                       |
+| Sempre allo scopo di dare voce ai valutati, è utile prevedere la      |
+| somministrazione periodica di questionari sulla percezione del        |
+| sistema di *performance management* da parte di tutto il personale.   |
+|                                                                       |
+| Nella gestione del processo è molto significativo il supporto         |
+| qualificato che viene dalla Direzione del personale anche nella       |
+| predisposizione di sistemi informativi, con modelli e format          |
+| *standard*, che  riducano la produzione cartacea ed incrementino la   |
+| efficienza del processo.                                              |
++-----------------------------------------------------------------------+
 
 Il processo di valutazione è l'elemento chiave della valutazione
 individuale, il cui attore, e responsabile, principale è la dirigenza.
@@ -1796,14 +1700,12 @@ seguenti attività:
    (predisposizione *format* delle schede individuali, calendarizzazione
    dei colloqui, eventuale gestione di piattaforme digitali, verifica
    del rispetto della tempistica, etc.);
-
 -  gestione degli incontri di calibrazione di tutti i livelli
    dirigenziali;
-
 -  gestione informatizzata del *dossier* personale dei dipendenti.
 
-La differenziazione delle valutazioni e la condivisione delle metodologie 
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+La differenziazione delle valutazioni e la condivisione delle metodologie
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 La differenziazione delle valutazioni costituisce una condizione di
 efficacia di tutto il sistema di misurazione e valutazione della
@@ -1822,17 +1724,14 @@ applicazione del sistema. In particolare:
    *performance* individuale (risultati e comportamenti) devono essere
    chiari, costruiti secondo le modalità descritte in precedenza (vedi
    par. 5.1), comunicati in modo efficace e nei tempi previsti;
-
 -  i dati che alimentano gli indicatori devono, per quanto possibile,
    provenire da sistemi informativi centralizzati;
-
 -  il processo deve essere gestito correttamente da parte dei
    valutatori, soprattutto nelle fasi di definizione degli obiettivi e
    di monitoraggio; in questa ultima fase, in particolare, è necessario
    che i valutatori mantengano traccia scritta degli elementi utili a
    dare sostanza alla valutazione (eventi particolarmente significativi,
    situazioni critiche, etc.);
-
 -  deve essere svolta un'appropriata comunicazione e formazione sul
    sistema di valutazione per la creazione di una cultura manageriale in
    grado di utilizzare correttamente gli strumenti, anche negli aspetti
@@ -1851,69 +1750,70 @@ favorisce un controllo incrociato sia sulla programmazione che sui
 risultati e contribuisce a prevenire il prodursi di distorsioni nel
 processo di valutazione.
 
-+--------------------------------------------------------------------------+
-| **Box 10 - Gli incontri di calibrazione**                                |
-|                                                                          |
-| I SMVP possono prevedere dei momenti di confronto fra valutatori dello   |
-| stesso livello organizzativo, finalizzati ad assicurare una maggiore     |
-| equità e solidità dei sistemi.                                           |
-|                                                                          |
-| Tali momenti di condivisione metodologica possono essere previsti tanto  |
-| nella fase iniziale della programmazione, quanto in quella finale della  |
-| valutazione, attraverso incontri di calibrazione.                        |
-|                                                                          |
-| Nel primo caso, gli incontri di calibrazione servono a garantire una     |
-| ponderazione degli obiettivi in modo che dirigenti dello stesso livello  |
-| abbiano lo stesso carico di responsabilità nel raggiungimento della      |
-| *performance* organizzativa.                                             |
-|                                                                          |
-| Nel secondo caso, gli incontri di calibrazione servono a ponderare le    |
-| valutazioni finali all'interno della stessa amministrazione o            |
-| articolazione organizzativa. In questo modo i dirigenti possono          |
-| confrontarsi sugli stili di valutazione e su *standard* trasversali, con |
-| il fine di favorire una differenziazione dei giudizi e neutralizzare     |
-| quegli effetti distorsivi tipici del processo valutativo.                |
-|                                                                          |
-| In questi contesti, gli strumenti che consentono di mitigare il rischio  |
-| di valutazioni fondate su metodologie disomogenee, sono in parte gli     |
-| stessi che vengono utilizzati per ottenere una migliore qualità delle    |
-| valutazioni, ma quello che aiuta maggiormente nel rendere omogenee le    |
-| metodologie si realizza mediante la costruzione di una visione d'insieme |
-| e la realizzazione di confronti delle distribuzioni delle valutazioni    |
-| assegnate.                                                               |
-|                                                                          |
-| Questa visione d'insieme, generalmente di competenza degli uffici        |
-| responsabili della gestione delle risorse umane, si traduce in pratica   |
-| nella raccolta delle valutazioni per aggregati omogenei. Ad esempio:     |
-| tutte le valutazioni effettuate da diversi valutatori dello stesso       |
-| livello organizzativo; oppure tutte le valutazioni attribuite alla       |
-| stessa figura professionale da valutatori diversi, oppure in contesti    |
-| territoriali diversi, etc.                                               |
-|                                                                          |
-| Raffrontando le distribuzioni statistiche emergono talvolta delle        |
-| tendenze ricorrenti che possono rappresentare una “spia accesa” della    |
-| presenza di disomogeneità, sulle quali è opportuno intervenire. In       |
-| questi casi, si può prevedere che siano gli uffici di gestione delle     |
-| risorse umane a dare un feedback diretto al valutatore, fornendogli una  |
-| serie di informazioni di confronto (sostanzialmente dei *benchmark*)     |
-| sulle valutazioni di diretta responsabilità, inducendolo a una eventuale |
-| revisione (migliorativa o peggiorativa) delle valutazioni stesse.        |
-|                                                                          |
-| In alternativa, i punti critici possono essere portati agli incontri di  |
-| calibrazione, dove i valutatori si confrontano sulla omogeneità          |
-| metodologica e sull'obiettivo della differenziazione. Questa seconda     |
-| opzione, di grande utilità sotto il profilo della crescita della cultura |
-| della valutazione, dipende dal grado di maturità organizzativa; si       |
-| richiede, infatti, una certa apertura mentale da parte dei valutatori,   |
-| la disponibilità a scambiare informazioni sui propri collaboratori che   |
-| normalmente verrebbero tenute riservate, nonché la consapevolezza di     |
-| essere condizionati da altri nelle proprie valutazioni.                  |
-|                                                                          |
-| In entrambi i casi l'OIV deve presidiare il corretto svolgimento dei     |
-| processi di misurazione e valutazione della *performance*.               |
-|                                                                          |
-+--------------------------------------------------------------------------+
-
++-----------------------------------------------------------------------+
+| **Box 10 - Gli incontri di calibrazione**                             |
+|                                                                       |
+| I SMVP possono prevedere dei momenti di confronto fra valutatori      |
+| dello stesso livello organizzativo, finalizzati ad assicurare una     |
+| maggiore equità e solidità dei sistemi.                               |
+|                                                                       |
+| Tali momenti di condivisione metodologica possono essere previsti     |
+| tanto nella fase iniziale della programmazione, quanto in quella      |
+| finale della valutazione, attraverso incontri di calibrazione.        |
+|                                                                       |
+| Nel primo caso, gli incontri di calibrazione servono a garantire una  |
+| ponderazione degli obiettivi in modo che dirigenti dello stesso       |
+| livello abbiano lo stesso carico di responsabilità nel raggiungimento |
+| della *performance* organizzativa.                                    |
+|                                                                       |
+| Nel secondo caso, gli incontri di calibrazione servono a ponderare le |
+| valutazioni finali all'interno della stessa amministrazione o         |
+| articolazione organizzativa. In questo modo i dirigenti possono       |
+| confrontarsi sugli stili di valutazione e su *standard* trasversali,  |
+| con il fine di favorire una differenziazione dei giudizi e            |
+| neutralizzare quegli effetti distorsivi tipici del processo           |
+| valutativo.                                                           |
+|                                                                       |
+| In questi contesti, gli strumenti che consentono di mitigare il       |
+| rischio di valutazioni fondate su metodologie disomogenee, sono in    |
+| parte gli stessi che vengono utilizzati per ottenere una migliore     |
+| qualità delle valutazioni, ma quello che aiuta maggiormente nel       |
+| rendere omogenee le metodologie si realizza mediante la costruzione   |
+| di una visione d'insieme e la realizzazione di confronti delle        |
+| distribuzioni delle valutazioni assegnate.                            |
+|                                                                       |
+| Questa visione d'insieme, generalmente di competenza degli uffici     |
+| responsabili della gestione delle risorse umane, si traduce in        |
+| pratica nella raccolta delle valutazioni per aggregati omogenei. Ad   |
+| esempio: tutte le valutazioni effettuate da diversi valutatori dello  |
+| stesso livello organizzativo; oppure tutte le valutazioni attribuite  |
+| alla stessa figura professionale da valutatori diversi, oppure in     |
+| contesti territoriali diversi, etc.                                   |
+|                                                                       |
+| Raffrontando le distribuzioni statistiche emergono talvolta delle     |
+| tendenze ricorrenti che possono rappresentare una “spia accesa” della |
+| presenza di disomogeneità, sulle quali è opportuno intervenire. In    |
+| questi casi, si può prevedere che siano gli uffici di gestione delle  |
+| risorse umane a dare un feedback diretto al valutatore, fornendogli   |
+| una serie di informazioni di confronto (sostanzialmente dei           |
+| *benchmark*) sulle valutazioni di diretta responsabilità, inducendolo |
+| a una eventuale revisione (migliorativa o peggiorativa) delle         |
+| valutazioni stesse.                                                   |
+|                                                                       |
+| In alternativa, i punti critici possono essere portati agli incontri  |
+| di calibrazione, dove i valutatori si confrontano sulla omogeneità    |
+| metodologica e sull'obiettivo della differenziazione. Questa seconda  |
+| opzione, di grande utilità sotto il profilo della crescita della      |
+| cultura della valutazione, dipende dal grado di maturità              |
+| organizzativa; si richiede, infatti, una certa apertura mentale da    |
+| parte dei valutatori, la disponibilità a scambiare informazioni sui   |
+| propri collaboratori che normalmente verrebbero tenute riservate,     |
+| nonché la consapevolezza di essere condizionati da altri nelle        |
+| proprie valutazioni.                                                  |
+|                                                                       |
+| In entrambi i casi l'OIV deve presidiare il corretto svolgimento dei  |
+| processi di misurazione e valutazione della *performance*.            |
++-----------------------------------------------------------------------+
 
 .. [1]
    Come già indicato nelle linee guida n. 1/2017 il Dipartimento della

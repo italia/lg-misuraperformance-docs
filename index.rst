@@ -318,7 +318,7 @@ attesa e quest'ultima in funzione della creazione di valore pubblico,
 ovvero del miglioramento del livello di benessere dei destinatari delle
 politiche e dei servizi.
 
-L'\ *output* della fase di programmazione non è unico, ma include
+L'*output* della fase di programmazione non è unico, ma include
 diversi documenti di programmazione (anche in virtù delle diverse
 finalità degli atti di programmazione previsti dalle disposizioni
 normative vigenti), complementari l'uno all'altro in quanto tutti parte
@@ -422,7 +422,7 @@ raggiungimento degli obiettivi medesimi, anche al fine di apprendere per
 migliorare nell'anno successivo.
 
 In base al d.lgs. 150/2009 la fase di valutazione deve avere come
-*output* la **Relazione annuale sulla Performance**\ che, evidenzia, a
+*output* la **Relazione annuale sulla Performance** che, evidenzia, a
 consuntivo, i risultati organizzativi e individuali raggiunti rispetto
 agli obiettivi programmati e formalizzati nel Piano. Nella Relazione,
 l'amministrazione inoltre evidenzia le modalità secondo cui si è svolto,
@@ -660,11 +660,11 @@ d.lgs. 74/2017. Esse sono:
    lo stato delle risorse dell'amministrazione a livello quantitativo ed
    a livello qualitativo?
 
--  l'\ **efficienza** e l'\ **efficacia**, che costituiscono il nucleo
+-  l'**efficienza** e l'**efficacia**, che costituiscono il nucleo
    centrale della *performance* organizzativa in quanto misurano i
    risultati dell'azione organizzativa e individuale;
 
--  l'\ **impatto**, quale orizzonte e traguardo ultimo della
+-  l'**impatto**, quale orizzonte e traguardo ultimo della
    *performance* organizzativa.
 
 Come si può vedere dalla figura 6, efficienza, efficacia e impatto si
@@ -692,90 +692,90 @@ principali aree sono:
    computer, etc.) e qualità (adeguatezza *software*,
    sicurezza/ergonomia luogo di lavoro, etc.).
 
-+-----------------------------------------------------------------------+
-| **Box 3 – I sistemi informativi di supporto nella gestione delle      |
-| risorse umane, dei processi e dei sistemi di indicatori. Linee        |
-| evolutive e buone pratiche**                                          |
-|                                                                       |
-| Per un adeguato supporto all'attività di misurazione, sono necessari  |
-| all'interno delle amministrazioni sistemi informativi relativi a:     |
-|                                                                       |
-| -  gestione delle risorse umane;                                      |
-|                                                                       |
-| -  analisi e rappresentazione dei processi;                           |
-|                                                                       |
-| -  alimentazione del sistema degli indicatori.                        |
-|                                                                       |
-| Per quanto riguarda la gestione delle risorse umane, i sistemi        |
-| informativi a disposizione delle amministrazioni centrali dello Stato |
-| sono più di uno. Tra gli altri è possibile utilizzare i dati del      |
-| sistema del “conto annuale” gestito da RGS                            |
-| (http://www.rgs.mef.gov.it/VERSIONE-I/e-GOVERNME1/SICO/Conto-annu/20  |
-| 16/ <http://www.rgs.mef.gov.it/VERSIONE-I/e-GOVERNME1/SICO/Conto-annu |
-| /2016/>_\_ ). Esso raccoglie e rende disponibili in formato aperto    |
-| numerose informazioni relative alla consistenza e composizione del    |
-| personale ed alle corrispondenti spese sostenute dalle                |
-| amministrazioni pubbliche, consentendo analisi di *benchmark* e       |
-| confronti internazionali.                                             |
-|                                                                       |
-| Sempre con riguardo alla gestione delle risorse umane, si segnala il  |
-| processo di innovazione in atto nel sistema NOIPA, che attualmente    |
-| costituisce il centro di gestione del *payroll* di una parte          |
-| rilevante delle PA italiane. Con lo sviluppo del progetto “Cloudify   |
-| NoiPA”, il sistema potrà evolversi nel sistema di gestione del        |
-| personale di tutta la pubblica amministrazione e divenire il luogo    |
-| fisico dove risiederanno tutte le informazioni relative ad ogni       |
-| dipendente pubblico: carriera, competenze, formazione, valutazione.   |
-|                                                                       |
-| Per quanto riguarda l'analisi e rappresentazione dei processi         |
-| organizzativi e l'alimentazione dei sistemi di indicatori, è          |
-| opportuno segnalare i sistemi sviluppati dal Ministero dell'economia  |
-| e finanze e dal Ministero delle infrastrutture e dei trasporti.       |
-|                                                                       |
-| Il Ministero dell'economia e delle finanze, oltre ad aver sviluppato  |
-| un sistema di controllo di gestione capace di gestire l'allocazione   |
-| delle risorse sui processi, mappati per l'intera struttura, ha        |
-| avviato il sistema SISP. Tale applicativo, nella sua funzione di      |
-| supporto alla pianificazione, consente il dialogo tra sistema della   |
-| *performance*, Direttiva e Nota Integrativa, raccogliendo in maniera  |
-| sinottica tutte le informazioni utili ai cicli della pianificazione   |
-| strategica, della programmazione finanziaria, della *performance*     |
-| evitando duplicazioni e sovrapposizioni.                              |
-|                                                                       |
-| Il Ministero delle infrastrutture e dei trasporti utilizza il sistema |
-| informativo per il controllo di gestione SIGEST. Quest'ultimo è in    |
-| grado di:                                                             |
-|                                                                       |
-| -  calcolare l'efficacia, efficienza tecnica e l'efficienza economica |
-|    di ogni struttura impostata come centro di costo finale;           |
-|                                                                       |
-| -  calcolare i costi dei prodotti e, per aggregazione, delle          |
-|    attività, dei compiti degli uffici, delle missioni di bilancio e   |
-|    dei programmi di spesa collegati;                                  |
-|                                                                       |
-| -  monitorare, con cadenza trimestrale, il livello di *performance*   |
-|    conseguito dagli uffici dirigenziali di livello non generale in    |
-|    relazione agli obiettivi assegnati;                                |
-|                                                                       |
-| -  fornire la base dati necessaria per la compilazione della          |
-|    Relazione al conto annuale;                                        |
-|                                                                       |
-| -  fornire la base dati necessaria per il calcolo automatico dei      |
-|    tassi di assenza/presenza del personale.                           |
-|                                                                       |
-| Nel sistema convivono due modalità di acquisizione dei dati che ne    |
-| alimentano la base dati: l'inserimento manuale e l'importazione       |
-| automatica tramite altri sistemi informativi alimentanti. La          |
-| mappatura delle attività di ogni ufficio è effettuata sulla base del  |
-| decreto ministeriale di individuazione dei compiti degli uffici       |
-| dirigenziali di livello non generale e viene aggiornata in funzione   |
-| di eventuali modifiche organizzative o funzionali nel frattempo       |
-| intervenute. Ogni prodotto, corredato degli opportuni indicatori,     |
-| viene correlato all'attività nonché alla missione di bilancio e       |
-| programma di spesa collegati. L'allocazione del personale è           |
-| effettuata su ogni singolo ufficio dirigenziale di seconda fascia,    |
-| centrale o periferico.                                                |
-+-----------------------------------------------------------------------+
++-------------------------------------------------------------------------------+
+| **Box 3 – I sistemi informativi di supporto nella gestione delle              |
+| risorse umane, dei processi e dei sistemi di indicatori. Linee                |
+| evolutive e buone pratiche**                                                  |
+|                                                                               |
+| Per un adeguato supporto all'attività di misurazione, sono necessari          |
+| all'interno delle amministrazioni sistemi informativi relativi a:             |
+|                                                                               |
+| -  gestione delle risorse umane;                                              |
+|                                                                               |
+| -  analisi e rappresentazione dei processi;                                   |
+|                                                                               |
+| -  alimentazione del sistema degli indicatori.                                |
+|                                                                               |
+| Per quanto riguarda la gestione delle risorse umane, i sistemi                |
+| informativi a disposizione delle amministrazioni centrali dello Stato         |
+| sono più di uno. Tra gli altri è possibile utilizzare i dati del              |
+| sistema del “conto annuale” gestito da RGS                                    |
+| (`http://www.rgs.mef.gov.it/VERSIONE-I/e-GOVERNME1/SICO/Conto-annu/2016/      |
+| <http://www.rgs.mef.gov.it/VERSIONE-I/e-GOVERNME1/SICO/Conto-annu/2016/>`__). |
+| Esso raccoglie e rende disponibili in formato aperto                          |
+| numerose informazioni relative alla consistenza e composizione del            |
+| personale ed alle corrispondenti spese sostenute dalle                        |
+| amministrazioni pubbliche, consentendo analisi di *benchmark* e               |
+| confronti internazionali.                                                     |
+|                                                                               |
+| Sempre con riguardo alla gestione delle risorse umane, si segnala il          |
+| processo di innovazione in atto nel sistema NOIPA, che attualmente            |
+| costituisce il centro di gestione del *payroll* di una parte                  |
+| rilevante delle PA italiane. Con lo sviluppo del progetto “Cloudify           |
+| NoiPA”, il sistema potrà evolversi nel sistema di gestione del                |
+| personale di tutta la pubblica amministrazione e divenire il luogo            |
+| fisico dove risiederanno tutte le informazioni relative ad ogni               |
+| dipendente pubblico: carriera, competenze, formazione, valutazione.           |
+|                                                                               |
+| Per quanto riguarda l'analisi e rappresentazione dei processi                 |
+| organizzativi e l'alimentazione dei sistemi di indicatori, è                  |
+| opportuno segnalare i sistemi sviluppati dal Ministero dell'economia          |
+| e finanze e dal Ministero delle infrastrutture e dei trasporti.               |
+|                                                                               |
+| Il Ministero dell'economia e delle finanze, oltre ad aver sviluppato          |
+| un sistema di controllo di gestione capace di gestire l'allocazione           |
+| delle risorse sui processi, mappati per l'intera struttura, ha                |
+| avviato il sistema SISP. Tale applicativo, nella sua funzione di              |
+| supporto alla pianificazione, consente il dialogo tra sistema della           |
+| *performance*, Direttiva e Nota Integrativa, raccogliendo in maniera          |
+| sinottica tutte le informazioni utili ai cicli della pianificazione           |
+| strategica, della programmazione finanziaria, della *performance*             |
+| evitando duplicazioni e sovrapposizioni.                                      |
+|                                                                               |
+| Il Ministero delle infrastrutture e dei trasporti utilizza il sistema         |
+| informativo per il controllo di gestione SIGEST. Quest'ultimo è in            |
+| grado di:                                                                     |
+|                                                                               |
+| -  calcolare l'efficacia, efficienza tecnica e l'efficienza economica         |
+|    di ogni struttura impostata come centro di costo finale;                   |
+|                                                                               |
+| -  calcolare i costi dei prodotti e, per aggregazione, delle                  |
+|    attività, dei compiti degli uffici, delle missioni di bilancio e           |
+|    dei programmi di spesa collegati;                                          |
+|                                                                               |
+| -  monitorare, con cadenza trimestrale, il livello di *performance*           |
+|    conseguito dagli uffici dirigenziali di livello non generale in            |
+|    relazione agli obiettivi assegnati;                                        |
+|                                                                               |
+| -  fornire la base dati necessaria per la compilazione della                  |
+|    Relazione al conto annuale;                                                |
+|                                                                               |
+| -  fornire la base dati necessaria per il calcolo automatico dei              |
+|    tassi di assenza/presenza del personale.                                   |
+|                                                                               |
+| Nel sistema convivono due modalità di acquisizione dei dati che ne            |
+| alimentano la base dati: l'inserimento manuale e l'importazione               |
+| automatica tramite altri sistemi informativi alimentanti. La                  |
+| mappatura delle attività di ogni ufficio è effettuata sulla base del          |
+| decreto ministeriale di individuazione dei compiti degli uffici               |
+| dirigenziali di livello non generale e viene aggiornata in funzione           |
+| di eventuali modifiche organizzative o funzionali nel frattempo               |
+| intervenute. Ogni prodotto, corredato degli opportuni indicatori,             |
+| viene correlato all'attività nonché alla missione di bilancio e               |
+| programma di spesa collegati. L'allocazione del personale è                   |
+| effettuata su ogni singolo ufficio dirigenziale di seconda fascia,            |
+| centrale o periferico.                                                        |
++-------------------------------------------------------------------------------+
 
 +-----------------------------------------------------------------------+
 | **Box 4 – La contabilità analitica: il sistema SICOGE-COINT**         |
@@ -835,14 +835,14 @@ principali aree sono:
 Il nucleo centrale della *performance* organizzativa è costituito dalle
 dimensioni di **efficienza ed efficacia**.
 
-La dimensione dell'\ **efficienza** esprime la capacità di utilizzare le
+La dimensione dell'**efficienza** esprime la capacità di utilizzare le
 risorse (*input*) in modo sostenibile e tempestivo nel processo di
 produzione ed erogazione del servizio (*output*) o, in altri termini, la
 capacità di produrre beni e servizi minimizzando il tempo e/o le risorse
 impiegati.
 
-La dimensione dell'\ **efficacia**, esprime l'adeguatezza
-dell'\ *output* erogato rispetto alle aspettative e alle necessità degli
+La dimensione dell'**efficacia**, esprime l'adeguatezza
+dell'*output* erogato rispetto alle aspettative e alle necessità degli
 utenti (interni ed esterni). Per misurare l'efficacia dell'azione di una
 amministrazione, è quindi fondamentale individuare quali dimensioni
 siano rilevanti per gli utenti. L'insieme di queste dimensioni dipende
@@ -851,7 +851,7 @@ loro definizione permette di specificare meglio il risultato atteso nei
 confronti dell'utenza. Ad esempio, per misurare l'efficacia di un
 servizio rivolto al pubblico è possibile prendere varie dimensioni:
 accessibilità; estetica/immagine; disponibilità; pulizia/ordine;
-comunicazione; cortesia; correttezza dell'\ *output* erogato;
+comunicazione; cortesia; correttezza dell'*output* erogato;
 affidabilità; tempestività di risposta.
 
 Definiti i parametri su cui si vuole misurare l'efficacia è poi
@@ -869,7 +869,7 @@ possibili due vie:
 
 **L'impatto**
 
-La dimensione dell'\ **impatto** esprime l'effetto generato da una
+La dimensione dell'**impatto** esprime l'effetto generato da una
 politica o da un servizio sui destinatari diretti o indiretti, nel
 medio-lungo termine, nell'ottica della creazione di valore pubblico,
 ovvero del miglioramento del livello di benessere rispetto alle
@@ -1124,7 +1124,7 @@ un processo adeguato e sostenibile richiedono:
 -  la definizione di una mappatura degli utenti esterni e interni ed
    individuazione del collegamento con attività, processi e progetti.
    L'approccio per processi ha il vantaggio di favorire l'individuazione
-   dell'\ *output* finale di una serie di attività correlate e quindi
+   dell'*output* finale di una serie di attività correlate e quindi
    anche dell'utente interno o esterno;
 
 -  l'identificazione delle modalità di interazione con gli utenti; ad
@@ -1164,7 +1164,7 @@ Relazione sulla *performance.*
 | assegnati all'OIV per la definizione delle modalità di segnalazione   |
 | si riportano alcune esemplificazioni.                                 |
 |                                                                       |
-| A) **La partecipazione dei cittadini e degli utenti esterni**         |
+| **A\) La partecipazione dei cittadini e degli utenti esterni**        |
 |                                                                       |
 | Gli OIV devono definire le modalità attraverso le quali i cittadini e |
 | gli utenti finali delle amministrazioni possono contribuire alla      |
@@ -1238,7 +1238,7 @@ Relazione sulla *performance.*
 | della propria valutazione e come tali contributi hanno influito su di |
 | essa.                                                                 |
 |                                                                       |
-| B) **La partecipazione degli utenti interni**                         |
+| **B\) La partecipazione degli utenti interni**                        |
 |                                                                       |
 | Al fine di favorire la partecipazione degli utenti interni al         |
 | processo di misurazione della *performance* organizzativa, gli OIV,   |
@@ -1301,7 +1301,7 @@ parole, il contributo fornito dal singolo al conseguimento della
 
 Le dimensioni che compongono la *performance* individuale sono:
 
--  \*\ **risultati**,\* riferiti agli obiettivi *annuali* inseriti nel
+-  **risultati**, riferiti agli obiettivi *annuali* inseriti nel
    Piano della *performance* o negli altri documenti di programmazione;
    essi sono a loro volta distinguibili, in base a quanto
    l'amministrazione indica nel proprio SMVP, in:

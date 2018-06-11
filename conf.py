@@ -2,7 +2,7 @@
 # -*- coding: utf-8 -*-
 
 # -- PROJECT Variables ----------------------------------------------------
-settings_project_name = "Linee guida per il Sistema di Misurazione e Valutazione della performance"
+settings_project_name = "Linee guida per il sistema di misurazione e valutazione della performance"
 settings_copyright_copyleft = 'AgID - Team Digitale'
 settings_editor_name = 'AgID - Team Digitale'
 settings_doc_version = 'version: latest'

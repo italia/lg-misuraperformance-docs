@@ -4,7 +4,7 @@ Dipartimento della Funzione Pubblica
 
 Ufficio per la valutazione della *performance*
 
-Linee guida per il Sistema di Misurazione e Valutazione della *performance*
+Linee guida per il sistema di misurazione e valutazione della *performance*
 ===========================================================================
 
 **Ministeri**
